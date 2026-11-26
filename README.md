@@ -10,3 +10,5 @@ A clean, responsive calculator built with vanilla HTML, CSS, and JavaScript.
 
 ## Run locally
 Open `index.html` in your browser — no build step required.
+## online demo
+https://theashenone10.github.io/calculator/
